@@ -1,0 +1,17 @@
+https://www.geeksforgeeks.org/java/
+
+https://www.geeksforgeeks.org/geeksquiz-home/
+
+https://www.geeksforgeeks.org/java-gq/inheritance-2-gq/
+
+https://www.geeksforgeeks.org/can-override-private-methods-java/
+
+http://www.geeksforgeeks.org/comparison-of-inheritance-in-c-and-java/
+
+https://www.geeksforgeeks.org/java-inheritance-question-1/
+
+https://www.geeksforgeeks.org/overriding-tostring-method-in-java/
+
+https://www.geeksforgeeks.org/tag/java-output/
+
+https://www.geeksforgeeks.org/java-tricky-output-questions/
